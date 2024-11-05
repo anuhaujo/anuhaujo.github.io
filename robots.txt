@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://anuhaujo.github.io/ATU/sitemap_index.txt
+Sitemap: https://anuhaujo.github.io/BfS/sitemap_index.txt
+Sitemap: https://anuhaujo.github.io/neE/sitemap_index.txt
+Sitemap: https://anuhaujo.github.io/ypC/sitemap_index.txt
